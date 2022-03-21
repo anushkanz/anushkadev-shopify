@@ -1,0 +1,21 @@
+.announcement-bar{
+  background: #000;
+}
+.announcement-bar p{
+      color: #fff;
+}
+#shopify-section-header{
+  background: rgb(2,0,36);
+ background: -moz-linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
+ background: -webkit-linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
+ background: linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#ffffff",GradientType=1);
+}
+.header-wrapper{
+    background: transparent !important;
+    background-color: RGBA(255, 255, 255, 0) !important;
+}
+#MainContent{
+  top:-80px;
+  position: relative;
+}
