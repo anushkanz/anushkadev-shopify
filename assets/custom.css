@@ -6,9 +6,9 @@
 }
 #shopify-section-header{
   background: rgb(2,0,36);
- background: -moz-linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
- background: -webkit-linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
- background: linear-gradient(180deg, rgba(2,0,36,0.5) 8%, rgba(9,9,121,0.15) 42%, rgba(255,255,255,0) 95%);
+ background: -moz-linear-gradient(180deg, rgba(2,0,36,0.5) 12%, rgba(9,9,121,0.15) 71%, rgba(255,255,255,0) 95%);
+ background: -webkit-linear-gradient(180deg, rgba(2,0,36,0.5) 12%, rgba(9,9,121,0.15) 71%, rgba(255,255,255,0) 95%);
+ background: linear-gradient(180deg, rgba(2,0,36,0.5) 12%, rgba(9,9,121,0.15) 71%, rgba(255,255,255,0) 95%);
  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#ffffff",GradientType=1);
 }
 .header-wrapper{
@@ -16,7 +16,7 @@
     background-color: RGBA(255, 255, 255, 0) !important;
 }
 #MainContent{
-  top:-130px;
+
   position: relative;
 }
 
@@ -53,11 +53,12 @@
 .header__inline-menu ul li a{
     font-size: 11px;
 }
-.top-menu a:link, a:visited{
+.top-menu a:link, .top-menu a:visited{
   display:block;
   text-decoration:none;
   padding:5px 15px;
-  color:#fff;
+  color: #fff;
+
 
 }
 
